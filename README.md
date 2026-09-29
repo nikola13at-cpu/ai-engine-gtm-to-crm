@@ -4,7 +4,7 @@ Sales capacity ranking for accounts Clay has already qualified.
 
 The agent reads a WSQ account, keeps the existing A1–B3 signal and campaign, and returns a comparable priority, a capacity slot, and one next action. It does not email, message, or reject a customer. A salesperson makes the final call.
 
-![Decision console ranking three sample accounts](docs/decision-console.png)
+![Decision console ranking three sample accounts](canvas-ui.png)
 
 ## The problem
 
